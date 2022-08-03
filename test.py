@@ -1,7 +1,8 @@
 # Import the necessary modules
 from flask import url_for
 from flask_testing import TestCase
-from website import app
+# from website import app
+from main import app
 
 # from website import main
 
